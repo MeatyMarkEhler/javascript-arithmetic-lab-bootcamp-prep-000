@@ -1,6 +1,6 @@
 
-var add; (a, b){
-  add = 1+2;
+var add(1, 3){
+  return 1+2
 }
   
 
